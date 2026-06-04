@@ -1,7 +1,9 @@
+import Whiteboard from "./Whiteboard"
+
 function App() {
   return (
     <div>
-      <h1>Whiteboard</h1>
+      <Whiteboard />
     </div>
   );
 }
